@@ -1,5 +1,5 @@
 output.txt
-
+.vscode/
 .env
 .python-version
 __pycache__
